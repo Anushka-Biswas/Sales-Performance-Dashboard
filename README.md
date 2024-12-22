@@ -7,7 +7,6 @@ Sales Performance Dashboard using Power BI for Regional Sales Analysis
 
 • Identified KPIs such as Total Sales Volume, Revenue, Profit Margin, and Regional Sales Trends using US
 Regional Sales Data
-
 <br>
 • Visualized year-over-year sales growth with line charts and compared regional performance using heatmaps.
 <br>
