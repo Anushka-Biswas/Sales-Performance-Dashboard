@@ -1,3 +1,6 @@
+![Sales](https://github.com/user-attachments/assets/c5720bfa-b6b2-460f-bcc3-6aeca5f52dee)
+
+
 # Sales-Performance-Dashboard
 Sales Performance Dashboard using Power BI for Regional Sales Analysis
 <br>
